@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Camilo659
-- 👀 I’m interested in ... medicine
-- 🌱 I’m currently learning ... in school
-- 💞️ I’m looking to collaborate on ... any hospital 
+- 👀 I’m interested in ... Systems
+- 🌱 I’m currently learning ... Systems
+- 💞️ I’m looking to collaborate on ... all world 
 - 📫 How to reach me ... Instagram: @camil0_merchan
 
 <!---
